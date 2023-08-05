@@ -1,0 +1,94 @@
+[Fri Aug 04 15:13:44.519371 2023] [ssl:warn] [pid 2176:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 04 15:13:44.608540 2023] [ssl:warn] [pid 2176:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 04 15:13:45.162060 2023] [mpm_winnt:notice] [pid 2176:tid 372] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Fri Aug 04 15:13:45.162060 2023] [mpm_winnt:notice] [pid 2176:tid 372] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Fri Aug 04 15:13:45.162060 2023] [core:notice] [pid 2176:tid 372] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Aug 04 15:13:45.174279 2023] [mpm_winnt:notice] [pid 2176:tid 372] AH00418: Parent: Created child process 21532
+[Fri Aug 04 15:13:46.778624 2023] [ssl:warn] [pid 21532:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 04 15:13:46.858093 2023] [ssl:warn] [pid 21532:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 04 15:13:46.918111 2023] [mpm_winnt:notice] [pid 21532:tid 364] AH00354: Child: Starting 150 worker threads.
+[Fri Aug 04 15:25:54.612265 2023] [ssl:warn] [pid 12824:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 04 15:25:54.702923 2023] [ssl:warn] [pid 12824:tid 372] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 04 15:25:54.844783 2023] [mpm_winnt:notice] [pid 12824:tid 372] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Fri Aug 04 15:25:54.844783 2023] [mpm_winnt:notice] [pid 12824:tid 372] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Fri Aug 04 15:25:54.844783 2023] [core:notice] [pid 12824:tid 372] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Aug 04 15:25:54.861203 2023] [mpm_winnt:notice] [pid 12824:tid 372] AH00418: Parent: Created child process 18072
+[Fri Aug 04 15:25:55.749515 2023] [ssl:warn] [pid 18072:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 04 15:25:55.819755 2023] [ssl:warn] [pid 18072:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 04 15:25:55.897180 2023] [mpm_winnt:notice] [pid 18072:tid 384] AH00354: Child: Starting 150 worker threads.
+[Fri Aug 04 15:28:10.872871 2023] [mpm_winnt:crit] [pid 18072:tid 384] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Fri Aug 04 15:35:07.820673 2023] [ssl:warn] [pid 9700:tid 396] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 04 15:35:07.904310 2023] [core:warn] [pid 9700:tid 396] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Aug 04 15:35:07.912314 2023] [ssl:warn] [pid 9700:tid 396] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 04 15:35:07.979826 2023] [mpm_winnt:notice] [pid 9700:tid 396] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Fri Aug 04 15:35:07.979826 2023] [mpm_winnt:notice] [pid 9700:tid 396] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Fri Aug 04 15:35:07.979826 2023] [core:notice] [pid 9700:tid 396] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Aug 04 15:35:07.989843 2023] [mpm_winnt:notice] [pid 9700:tid 396] AH00418: Parent: Created child process 20016
+[Fri Aug 04 15:35:08.574704 2023] [ssl:warn] [pid 20016:tid 392] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 04 15:35:08.628212 2023] [ssl:warn] [pid 20016:tid 392] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 04 15:35:08.676227 2023] [mpm_winnt:notice] [pid 20016:tid 392] AH00354: Child: Starting 150 worker threads.
+[Fri Aug 04 15:45:37.192348 2023] [ssl:warn] [pid 3592:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 04 15:45:37.242990 2023] [core:warn] [pid 3592:tid 344] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Aug 04 15:45:37.248528 2023] [ssl:warn] [pid 3592:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 04 15:45:37.589770 2023] [mpm_winnt:notice] [pid 3592:tid 344] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Fri Aug 04 15:45:37.589770 2023] [mpm_winnt:notice] [pid 3592:tid 344] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Fri Aug 04 15:45:37.589770 2023] [core:notice] [pid 3592:tid 344] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Aug 04 15:45:37.595772 2023] [mpm_winnt:notice] [pid 3592:tid 344] AH00418: Parent: Created child process 4288
+[Fri Aug 04 15:45:37.994967 2023] [ssl:warn] [pid 4288:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 04 15:45:38.047479 2023] [ssl:warn] [pid 4288:tid 344] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 04 15:45:38.096487 2023] [mpm_winnt:notice] [pid 4288:tid 344] AH00354: Child: Starting 150 worker threads.
+[Fri Aug 04 19:24:56.985386 2023] [ssl:warn] [pid 11396:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 04 19:24:57.072376 2023] [core:warn] [pid 11396:tid 384] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Aug 04 19:24:57.079376 2023] [ssl:warn] [pid 11396:tid 384] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 04 19:24:57.697993 2023] [mpm_winnt:notice] [pid 11396:tid 384] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Fri Aug 04 19:24:57.697993 2023] [mpm_winnt:notice] [pid 11396:tid 384] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Fri Aug 04 19:24:57.697993 2023] [core:notice] [pid 11396:tid 384] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Aug 04 19:24:57.705994 2023] [mpm_winnt:notice] [pid 11396:tid 384] AH00418: Parent: Created child process 16772
+[Fri Aug 04 19:24:58.289084 2023] [ssl:warn] [pid 16772:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 04 19:24:58.374625 2023] [ssl:warn] [pid 16772:tid 348] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Aug 04 19:24:58.454629 2023] [mpm_winnt:notice] [pid 16772:tid 348] AH00354: Child: Starting 150 worker threads.
+[Sat Aug 05 12:20:16.884733 2023] [ssl:warn] [pid 13224:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 05 12:20:16.973279 2023] [core:warn] [pid 13224:tid 364] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Aug 05 12:20:16.980278 2023] [ssl:warn] [pid 13224:tid 364] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 05 12:20:17.581727 2023] [mpm_winnt:notice] [pid 13224:tid 364] AH00455: Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.2.4 configured -- resuming normal operations
+[Sat Aug 05 12:20:17.581727 2023] [mpm_winnt:notice] [pid 13224:tid 364] AH00456: Apache Lounge VS16 Server built: Mar  7 2023 13:21:03
+[Sat Aug 05 12:20:17.582727 2023] [core:notice] [pid 13224:tid 364] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Aug 05 12:20:17.591727 2023] [mpm_winnt:notice] [pid 13224:tid 364] AH00418: Parent: Created child process 16304
+[Sat Aug 05 12:20:18.225832 2023] [ssl:warn] [pid 16304:tid 336] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 05 12:20:18.311814 2023] [ssl:warn] [pid 16304:tid 336] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Aug 05 12:20:18.402366 2023] [mpm_winnt:notice] [pid 16304:tid 336] AH00354: Child: Starting 150 worker threads.
+[Sat Aug 05 14:49:16.062988 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] Sync process for Gutenberg Blocks has started., referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:16.063991 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] CATEGORY:Importing categories.., referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:17.080601 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] CATEGORY:Storing in option ast-block-templates-categories, referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:17.102795 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] CATEGORY:Completed category import., referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:17.103795 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] BLOCK: Getting Total Blocks, referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:17.103795 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes, referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:17.592683 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] BLOCK: Requests count 4, referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:17.594683 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] BLOCK: Importing request 1 .., referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:17.594683 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes, referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:18.132151 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] BLOCK: Storing in option ast-block-templates-blocks-1, referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:18.134154 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] BLOCK: Completed request 1, referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:18.134154 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] BLOCK: Importing request 2 .., referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:18.135155 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes, referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:18.659169 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] BLOCK: Storing in option ast-block-templates-blocks-2, referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:18.666061 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] BLOCK: Completed request 2, referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:18.667062 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] BLOCK: Importing request 3 .., referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:18.667062 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes, referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:19.290873 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] BLOCK: Storing in option ast-block-templates-blocks-3, referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:19.297421 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] BLOCK: Completed request 3, referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:19.297421 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] BLOCK: Importing request 4 .., referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:19.298426 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes, referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:19.974781 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] BLOCK: Storing in option ast-block-templates-blocks-4, referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:19.977711 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] BLOCK: Completed request 4, referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:19.977711 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] SITE: Getting Total Sites, referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:19.977711 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg, referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:20.486319 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] SITE: Request count 2, referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:20.488317 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] SITE: Importing request 1 .., referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:20.488317 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg, referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:21.006350 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] SITE: Storing in option ast-block-templates-sites-1, referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:21.098379 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] SITE: Completed request 1, referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:21.100379 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] SITE: Importing request 2 .., referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:21.100379 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg, referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:21.856358 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] SITE: Storing in option ast-block-templates-sites-2, referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:21.880360 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] SITE: Completed request 2, referer: http://localhost/word2/wp-admin/edit.php
+[Sat Aug 05 14:49:21.880360 2023] [php:notice] [pid 16304:tid 1784] [client ::1:55408] Sync process for Gutenberg Blocks is done., referer: http://localhost/word2/wp-admin/edit.php

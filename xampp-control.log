@@ -1,0 +1,36 @@
+12:20:09  [main] 	Initializing Control Panel
+12:20:09  [main] 	Windows Version:  Home  64-bit
+12:20:09  [main] 	XAMPP Version: 8.2.4
+12:20:09  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+12:20:09  [main] 	You are not running with administrator rights! This will work for
+12:20:09  [main] 	most application stuff but whenever you do something with services
+12:20:09  [main] 	there will be a security dialogue or things will break! So think 
+12:20:09  [main] 	about running this application with administrator rights!
+12:20:09  [main] 	XAMPP Installation Directory: "c:\xampp\"
+12:20:09  [main] 	Checking for prerequisites
+12:20:11  [main] 	All prerequisites found
+12:20:11  [main] 	Initializing Modules
+12:20:11  [mysql] 	Problem detected!
+12:20:11  [mysql] 	Port 3306 in use by "Unable to open process"!
+12:20:11  [mysql] 	MySQL WILL NOT start without the configured ports free!
+12:20:11  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+12:20:11  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+12:20:11  [main] 	Starting Check-Timer
+12:20:11  [main] 	Control Panel Ready
+12:20:14  [Apache] 	Attempting to start Apache app...
+12:20:14  [Apache] 	Status change detected: running
+12:20:19  [mysql] 	Problem detected!
+12:20:19  [mysql] 	Port 3306 in use by "Unable to open process"!
+12:20:19  [mysql] 	MySQL WILL NOT start without the configured ports free!
+12:20:19  [mysql] 	You need to uninstall/disable/reconfigure the blocking application
+12:20:19  [mysql] 	or reconfigure MySQL and the Control Panel to listen on a different port
+12:20:19  [mysql] 	Attempting to start MySQL app...
+12:20:20  [mysql] 	Status change detected: running
+15:37:40  [mysql] 	Attempting to stop MySQL app...
+15:37:40  [mysql] 	Status change detected: stopped
+15:37:41  [Apache] 	Attempting to stop Apache (PID: 13224)
+15:37:41  [Apache] 	Attempting to stop Apache (PID: 16304)
+15:37:41  [Apache] 	Status change detected: stopped
+15:38:59  [main] 	Deinitializing Modules
+15:38:59  [main] 	Deinitializing Control Panel
+
